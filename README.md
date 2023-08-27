@@ -1,16 +1,4 @@
-# hello
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/kunjgala/COVID-19-Dashboard/assets/67849261/57695cff-fa0f-4501-876d-0ff7b1d99694
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
